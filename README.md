@@ -3,5 +3,4 @@ Contains small sample showing different alternatives to implement View - View Mo
 
 
 # Samples Description
-[Observable based Sample](Observable)
-Uses a custom Observable generic class to implement two way data-binding.
+[Observable based Sample](ObservableSample): Uses a custom Observable generic class to implement two way data-binding.
